@@ -1,0 +1,22 @@
+/* logo */
+
+.brand-logo-v1 {
+    max-width: 275px;
+}
+
+
+/* Hero Page */
+
+.hero-area-v4 .hero-content .hero-title-v1 {
+    font-size: 45px;
+    line-height: 1;
+    margin-bottom: 45px;
+}
+
+.hero-area-v4 p {
+    margin: 15px 0px 30px 0;
+}
+
+.hero-area-v4 .hero-preview-galley img.main-image-1 {
+    margin: 20px;
+}
